@@ -35,7 +35,7 @@ claves = [
 ]
 
 # --- Streamlit ---
-st.title("🎉 Codificador de Mensajes 🎉")
+st.title(" 🕵️ Codificador de Mensajes 🕵️ ")
 
 st.write("Selecciona la clave para codificar tu mensaje:")
 
